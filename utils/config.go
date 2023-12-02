@@ -16,7 +16,7 @@ var TEXT map[string]string = map[string]string{
 <b>Ƒɾα𝓶ҽɯσƙ</b> : <a href='github.com/PaulSonOfLars/gotgbot'>𝗴𝗼𝘁𝗴𝗯𝗼𝘁</a>
 <b>Sҽɾʋҽɾ</b> : <a href='heroku.com'>𝗛𝗲𝗿𝗼𝗸𝘂</a>
 <b>Ɗα𝜏αẞαടҽ</b> : <a href='mongodb.org'>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</a>
-<b>Ɗҽʋҽɬσρҽɾ</b> : <a href='t.me/stylishboyfaiz'>𝗝𝗶𝘀𝗶𝗻𝟬</a>
+<b>Ɗҽʋҽɬσρҽɾ</b> : <a href='t.me/stylishboyfaiz'>𖣘ᴹᴿ๛CRAZYᴮᴼᵞ🕊️⃝🦋</a>
 <b>Sᥙρρσɾ𝜏</b> : <a href='t.me/Fz_Support_Group'>𝗛𝗲𝗿𝗲</a>
 	`,
 
@@ -85,7 +85,7 @@ var BUTTONS map[string][][]gotgbot.InlineKeyboardButton = map[string][][]gotgbot
 		{
 			{Text: "☂ Aʙᴏᴜᴛ ☂", CallbackData: "edit(ABOUT)"},
 			{Text: "🧭 Help 🧭", CallbackData: "edit(HELP)"},
-			{Text: "🫂 Sᴜᴘᴘᴏʀᴛ 🫂", Url: "t.me/Jisin0"},
+			{Text: "🫂 Sᴜᴘᴘᴏʀᴛ 🫂", Url: "t.me/Fz_Support_Group"},
 		},
 	},
 	"ABOUT": {
